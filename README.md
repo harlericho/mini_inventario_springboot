@@ -1,4 +1,4 @@
-#Debemos cargar el script de de los datos d ela tabal rol:
+#Debemos cargar el script de los datos de la tabla rol:
 
 
 -- Insertar roles
