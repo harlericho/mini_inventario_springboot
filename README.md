@@ -3,4 +3,4 @@
 
 -- Insertar roles
 
-INSERT INTO roles (name) VALUES ('ADMINISTRADOR'), ('EMPLEADO');
+INSERT INTO rol (descripcion) VALUES ('ADMINISTRADOR'), ('EMPLEADO');
