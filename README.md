@@ -1,3 +1,6 @@
 #Debemos cargar el script de de los datos d ela tabal rol:
+
+
 -- Insertar roles
+
 INSERT INTO roles (name) VALUES ('ADMINISTRADOR'), ('EMPLEADO');
